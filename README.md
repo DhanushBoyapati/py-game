@@ -9,8 +9,8 @@ A Python-based game that demonstrates game development using Python. This projec
 
 ## Get in Touch
 - GitHub: [DhanushBoyapati](https://github.com/DhanushBoyapati)
-- LinkedIn: [Your LinkedIn Profile](#)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn:www.linkedin.com/in/dhanush-boyapati-509392250(#
+- Email: dhanushboyapati007@gmail.com
 
 ## Skills
 - **Languages:** Python
