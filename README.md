@@ -1,17 +1,26 @@
-# py-game
+# Hi there, I'm Dhanush Boyapati 👋
 
-## Description
-Welcome to the py-game repository! This project contains a Python-based game developed to showcase game development using Python. The game is simple yet engaging and serves as a great starting point for anyone interested in learning game development with Python.
+## About Me
+I'm a passionate developer with a keen interest in Python and game development. I enjoy creating engaging and interactive projects, and I'm always looking to learn and grow my skills.
 
-## Features
-- Interactive gameplay
-- User-friendly interface
-- [Add more features here]
+## Projects
+### [py-game](https://github.com/DhanushBoyapati/py-game)
+A Python-based game that demonstrates game development using Python. This project is a great starting point for anyone interested in learning game development with Python.
 
-## Installation
-To install and run the game on your local machine, follow these steps:
+## Get in Touch
+- GitHub: [DhanushBoyapati](https://github.com/DhanushBoyapati)
+- LinkedIn: [Your LinkedIn Profile](#)
+- Email: [your.email@example.com](mailto:your.email@example.com)
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/DhanushBoyapati/py-game.git
-   cd py-game
+## Skills
+- **Languages:** Python
+- **Frameworks:** [Add any frameworks you use]
+- **Tools:** [Add any tools you use]
+
+## GitHub Stats
+![Dhanush's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhanushBoyapati&show_icons=true&theme=radical)
+
+## Contributions
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushBoyapati&layout=compact&theme=radical)
+
+Feel free to reach out if you'd like to collaborate on a project or just chat about tech!
